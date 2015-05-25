@@ -30,7 +30,7 @@ Setup the chart and append it to the DOM:
 **size:** (Integer, Default: 200)
 The size of the viewbox (as SVG can be scaled free).
 
-**data:** (Array, Default: [])
+**data:** (Array, Default: [ ])
 An array of data objects like this:
 ```
 {
