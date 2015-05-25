@@ -4,7 +4,7 @@ A small, dependency-free JS lib for drawing circular SVG charts.
 
 <img src="https://cdn.rawgit.com/ice8lue/cirque.js/master/sample.svg" width="400">
 
-![Demo](https://cdn.rawgit.com/ice8lue/cirque.js/master/demo/index.html)
+[See demo](https://cdn.rawgit.com/ice8lue/cirque.js/master/demo/index.html)
 
 ## Usage
 Add cirque.js to your page's head:
