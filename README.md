@@ -2,7 +2,7 @@
 
 A small, dependency-free JS lib for drawing circular SVG charts.
 
-<img src="https://raw.githubusercontent.com/ice8lue/cirque.js/master/sample.svg" width="400">
+<img src="https://i.ibb.co/sRrk0jB/Bildschirmfoto-2020-02-13-um-14-26-09.png" width="400">
 
 [See demo](https://raw.githubusercontent.com/ice8lue/cirque.js/master/demo/index.html)
 
